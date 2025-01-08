@@ -41,3 +41,34 @@ span {
     background-color:black;
     
 }
+
+@media (max-width: 320px) {
+
+    body {
+    margin: 15px;
+     text-align: center ;
+     background-color: white;
+         }
+
+    .mainheading {
+        color: rgb(71, 42, 165);
+        font-size: 20px;
+        font-weight: bold;
+         } 
+                                     
+                                       }
+                                   
+@media (max-width: 768px) and (min-width:321px)   {                
+            
+ body {
+     margin:120px;
+     text-align: center ;
+     background-color: white;
+      }
+                                    
+.mainheading {
+         color: rgb(71, 42, 165);
+         font-size: 20px;
+         font-weight: bold;
+            } 
+                                      }
